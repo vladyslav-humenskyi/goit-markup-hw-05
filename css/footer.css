@@ -58,6 +58,9 @@
 
 .footer-subscribe-caption {
   margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 
   font-weight: 500;
   color: #fff;
@@ -74,6 +77,9 @@
   padding: 8px 16px;
   width: 264px;
   height: 40px;
+
+  line-height: 1.17;
+  letter-spacing: 0.04em;
 
   color: #fff;
   font-size: 12px;
